@@ -1,4 +1,4 @@
-#Halo Semua!
+# Halo Semua!
 
 Perkenalkan Nama Saya **Maharrandi Dwiki Saputra**.\
 Saya Seorang Mahasiswa di **Universitas Bina Sarana Informatika** Jurusan **Teknologi Informasi** Semester 7.\
